@@ -1,0 +1,20 @@
+{
+  "name": "chaiML",
+  "version": "0.0.1",
+  "description": "A machine learning library trained on all of Shakespeare's plays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://realtable@github.com/realtable/chaiML.git"
+  },
+  "keywords": [],
+  "author": "Josh Quail <josh@madbean.com> (https://github.com/realtable/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realtable/chaiML/issues"
+  },
+  "homepage": "https://github.com/realtable/chaiML#readme"
+}
