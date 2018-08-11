@@ -35,7 +35,7 @@ async function findExcerpts(callback) {
     for (var i = 0; i < entries.length; i++) {
       var website = entries[i].split(' ')[0];
       var name = entries[i].split(' ').slice(1).join(' ');
-      
+
       // gets text from plays
       var resp = await getPlay(website);
       if (resp instanceof Error) {
@@ -49,22 +49,24 @@ async function findExcerpts(callback) {
             input: chunks[j],
             output: {}
           };
-          excerpt.output[name] = 1;
+          excerpt.output[name.toString()] = 1;
           excerptList.push(excerpt);
         }
       }
-      
+
     }
     callback(undefined, excerptList);
   }
 }
 
-findExcerpts((err, data) => {
-  if (err) console.log(err);
-  else {
-    // saves excerpts to file
-    fs.writeFile('./excerpts.js', JSON.stringify(data), (err) =>{
-      if (err) console.log(err);
-    }); 
-  }
-});
+module.exports.init = function () {
+  findExcerpts((err, data) => {
+    if (err) console.log(err);
+    else {
+      // saves excerpts to file
+      fs.writeFile('./excerpts.js', JSON.stringify(data), (err) => {
+        if (err) console.log(err);
+      });
+    }
+  });
+};

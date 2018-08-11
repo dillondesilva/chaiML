@@ -1,11 +1,12 @@
 {
   "name": "chaiml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A machine learning library trained on all of Shakespeare's plays.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "get-excerpts": "./src/excerpts"
+    "excerpts": "node -e 'require(\"./src/convert.js\").init()'",
+    "neural-network": "node -e 'require(\"./src/train.js\").init()'"
   },
   "repository": {
     "type": "git",
