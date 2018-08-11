@@ -1,0 +1,38 @@
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-alls-11.txt All's Well that Ends Well
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-antony-23.txt Antony and Cleopatra
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-as-12.txt As You Like It
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-comedy-7.txt The Comedy of Errors
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-coriolanus-24.txt Coriolanus
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-cymbeline-17.txt Cymbeline
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-first-51.txt King Henry IV
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-hamlet-25.txt Hamlet
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-julius-26.txt Julius Caesar
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-king-45.txt King Lear
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-life-54.txt King Henry V
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-life-55.txt King Henry VIII
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-life-56.txt King John
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-lovers-62.txt A Lover's Complaint
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-loves-8.txt Love's Labour's Lost
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-macbeth-46.txt Macbeth
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-measure-13.txt Measure for Measure
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-merchant-5.txt The Merchant of Venice
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-merry-15.txt The Merry Wives of Windsor
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-midsummer-16.txt A Midsummer Night's Dream
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-much-3.txt Much Ado About Nothing
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-othello-47.txt Othello
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-pericles-21.txt Pericles, Prince of Tyre
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-rape-61.txt The Rape of Lucrece
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-romeo-48.txt Romeo and Juliet
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-second-52.txt King Henry IV
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-taming-2.txt The Taming of the Shrew
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-tempest-4.txt The Tempest
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-third-53.txt King Henry VI
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-timon-49.txt Timon of Athens
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-titus-50.txt Titus Andronicus
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-tragedy-57.txt King Richard II
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-tragedy-58.txt King Richard III
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-troilus-22.txt Troilus and Cressida
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-twelfth-20.txt Twelfth Night
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-two-18.txt The Two Gentlemen of Verona
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-venus-60.txt Venus and Adonis
+http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-winters-19.txt The Winter's Tale

@@ -1,10 +1,11 @@
 {
-  "name": "chaiML",
+  "name": "chaiml",
   "version": "0.0.1",
   "description": "A machine learning library trained on all of Shakespeare's plays.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-excerpts": "./src/excerpts"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/realtable/chaiML/issues"
   },
-  "homepage": "https://github.com/realtable/chaiML#readme"
+  "homepage": "https://github.com/realtable/chaiML#readme",
+  "dependencies": {
+    "brain.js": "^1.2.4",
+    "request": "^2.87.0"
+  }
 }
