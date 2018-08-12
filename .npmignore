@@ -1,1 +1,4 @@
 src/excerpts.js
+src/plays.text
+src/convert.js
+.gitignore

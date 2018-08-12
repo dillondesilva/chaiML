@@ -1,18 +1,18 @@
 {
   "name": "chaiml",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A machine learning library trained on all of Shakespeare's plays.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "excerpts": "node -e 'require(\"./src/convert.js\").init()'",
-    "neural-network": "node -e 'require(\"./src/train.js\").init()'"
+    "excerpts": "cd src && node -e 'require(\"./convert.js\").init()'",
+    "train": "cd src && node -e 'require(\"./train.js\").init()'"
   },
   "repository": {
     "type": "git",
     "url": "git+https://realtable@github.com/realtable/chaiML.git"
   },
-  "keywords": [],
+  "keywords": ["machine-learning", "brainjs", "shakespeare", "lstm", "neural-network", "nodejs", "npm"],
   "author": "Josh Quail <josh@madbean.com> (https://github.com/realtable/)",
   "license": "MIT",
   "bugs": {
