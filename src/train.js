@@ -28,25 +28,25 @@ function train() {
   var net = new brain.NeuralNetwork();
   var trainingDataRaw = fs.readFileSync('./excerpts.js');
   var trainingData = JSON.parse(trainingDataRaw);
-
+  
   // gets a few excerpts
   var selectData = [];
-  for (i = 0; i < 2000; i++) {
-    selectData.push(trainingData[Math.floor((Math.random() * trainingData.length))]);
+  for (i = 0; i < 20; i++) {
+    var next = trainingData[Math.floor((Math.random() * trainingData.length))];
+    selectData.push(next);
   }
   // maps encoded training data
   selectData = compute(selectData);
-
-  // trains network and exports to JSON
+  
+  // trains network and returns it
   net.train(selectData, {
-    iterations: 2000,
     log: true
   });
-  trainedNet = net.toJSON();
-  return trainedNet;
+  
+  return net;
 }
 
 module.exports.init = function () {
-  var net = train();
-  fs.writeFileSync('network.json', JSON.stringify(trainedNet));
+  var net = train().toJSON();
+  fs.writeFileSync('network.json', JSON.stringify(net));
 };

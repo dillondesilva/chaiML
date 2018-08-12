@@ -17,7 +17,7 @@ function getPlay(website) {
         reject('Invalid status code <' + resp.statusCode + '>');
       }
       // return the text minus all tabs, new lines and carraige returns
-      resolve(body.replace(/\t|\n|\r/g, " "));
+      resolve(body.replace(/\t|\n|\r/g, ' '));
     });
   });
 }
@@ -41,8 +41,10 @@ async function findExcerpts(callback) {
       if (resp instanceof Error) {
         callback(err, undefined);
       } else {
-        // gets 100 char bits from play
+        // gets 100 char bits from play and removes smaller one at end
         var chunks = resp.toString().split(/(.{100})/).filter(O => O);
+        chunks.pop();
+        
         // formats for training
         for (var j = 0; j < chunks.length; j++) {
           var excerpt = {
