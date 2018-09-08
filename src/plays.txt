@@ -21,7 +21,6 @@ http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-midsummer-16.txt 
 http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-much-3.txt Much Ado About Nothing
 http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-othello-47.txt Othello
 http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-pericles-21.txt Pericles, Prince of Tyre
-http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-rape-61.txt The Rape of Lucrece
 http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-romeo-48.txt Romeo and Juliet
 http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-second-52.txt King Henry IV
 http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/shakespeare-taming-2.txt The Taming of the Shrew
